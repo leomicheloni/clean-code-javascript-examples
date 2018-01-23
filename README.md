@@ -1,1 +1,1 @@
-# clean-code-javascript-examples
+# Set of examples used in talk
